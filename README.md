@@ -2,6 +2,10 @@
 # ที่มา
 # วัตถุประสงค์
 # อุปกรณ์
+> * Ardino Uno R3
+> * Ultrasonic Distance Sensor
+> * servo motor
+> * LCD
 # เว็บไซต์
 # วิดีโอนำเสนอ
 # โปสเตอร์
