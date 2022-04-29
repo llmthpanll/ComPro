@@ -2,7 +2,7 @@
 # ที่มา
 # วัตถุประสงค์
 # อุปกรณ์
-> * Ardino Uno R3
+> * Arduino Uno R3
 > * Ultrasonic Distance Sensor
 > * servo motor
 > * LCD
