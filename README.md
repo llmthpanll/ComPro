@@ -14,7 +14,7 @@
 # วิดีโอนำเสนอ
 > [AUTOMATIC HAND SANITIZER | IT KMITL Computer Programming Project 2022](https://youtu.be/MZYNmv7S1OY)
 # โปสเตอร์
->  ![Poster (download)](Poster/Automatic hand sanitizer .png)
+>  ![Poster (download)](Poster/Automatichandsanitizer.png)
 ### สมาชิก
 ---
 
