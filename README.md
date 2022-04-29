@@ -14,7 +14,7 @@
 > * Lcd 20x4 I2C
 # เว็บที่ใช้เขียนโค้ด
 > [WOKWI](https://wokwi.com/projects/330176541007807060)
-# บทคักย่อ
+# บทคัดย่อ
 > [บทคัดย่อ](https://docs.google.com/document/d/1QJhKXMBHFhQIcRQay6QXLjgT2K9Bn8pqgYMzIpaahwA/edit)
 # วิดีโอนำเสนอ
 > [AUTOMATIC HAND SANITIZER | IT KMITL Computer Programming Project 2022](https://youtu.be/MZYNmv7S1OY)
