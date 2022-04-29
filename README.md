@@ -13,7 +13,7 @@
 > * Servo Motor
 > * Lcd 20x4 I2C
 # เว็บที่ใช้เขียนโค้ด
-> [Wokwi](https://wokwi.com/projects/330176541007807060)
+> [WOKWI](https://wokwi.com/projects/330176541007807060)
 # วิดีโอนำเสนอ
 > [AUTOMATIC HAND SANITIZER | IT KMITL Computer Programming Project 2022](https://youtu.be/MZYNmv7S1OY)
 # โปสเตอร์
