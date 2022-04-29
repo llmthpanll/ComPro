@@ -12,7 +12,7 @@
 > * servo motor
 > * LCD
 # วิดีโอนำเสนอ
-> * [Youtube](https://youtu.be/MZYNmv7S1OY)
+> [YOUTUBE](https://youtu.be/MZYNmv7S1OY)
 # โปสเตอร์
 ### สมาชิก
 ---
