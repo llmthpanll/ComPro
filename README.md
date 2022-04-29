@@ -12,7 +12,7 @@
 > * servo motor
 > * LCD
 # วิดีโอนำเสนอ
-> [YOUTUBE](https://youtu.be/MZYNmv7S1OY)
+> [AUTOMATIC HAND SANITIZER | IT KMITL Computer Programming Project 2022](https://youtu.be/MZYNmv7S1OY)
 # โปสเตอร์
 ### สมาชิก
 ---
