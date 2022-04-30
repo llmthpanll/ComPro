@@ -17,7 +17,7 @@
 # บทคัดย่อ
 > [บทคัดย่อ](https://docs.google.com/document/d/1QJhKXMBHFhQIcRQay6QXLjgT2K9Bn8pqgYMzIpaahwA/edit)
 # วิดีโอนำเสนอ
-> [AUTOMATIC HAND SANITIZER | IT KMITL Computer Programming Project 2022](https://youtu.be/MZYNmv7S1OY)
+> [AUTOMATIC HAND SANITIZER | IT KMITL Computer Programming Project 2022](https://youtu.be/Z36bY0ji2Ck)
 # โปสเตอร์
 >  ![Poster](Poster/poster.png)
 ### สมาชิก
