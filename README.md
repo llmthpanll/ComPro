@@ -12,12 +12,14 @@
 > * Ultrasonic Distance Sensor
 > * Servo Motor
 > * Lcd 20x4 I2C
-# เว็บที่ใช้เขียนโค้ด
-> [WOKWI](https://wokwi.com/projects/330176541007807060)
 # บทคัดย่อ
 > [บทคัดย่อ](https://docs.google.com/document/d/1QJhKXMBHFhQIcRQay6QXLjgT2K9Bn8pqgYMzIpaahwA/edit)
+# เว็บที่ใช้เขียนโค้ด
+> [WOKWI](https://wokwi.com/projects/330176541007807060)
+# 3D Model
+> [Tinkercad](https://www.tinkercad.com/things/6DBXGMVu8yy-terrific-wluff-albar/edit?sharecode=dAcN0JpzYaFOU7WJsslVv1ROgE2fDgmEdVC993L0N6o)
 # วิดีโอนำเสนอ
-> [AUTOMATIC HAND SANITIZER | IT KMITL Computer Programming Project 2022](https://youtu.be/Z36bY0ji2Ck)
+> [AUTOMATIC HAND SANITIZER | IT KMITL Computer Programming Project 2022](https://youtu.be/Irt0dS3YzDI)
 # โปสเตอร์
 >  ![Poster](Poster/poster.png)
 ### สมาชิก
